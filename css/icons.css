@@ -1,0 +1,13 @@
+/*Global*/
+.save-icon {
+ background-image: url(../images/disk.png);
+}
+.add-icon {
+ background-image: url(../images/add.png);
+}
+.cross-icon {
+ background-image: url(../images/cross.png);
+}
+.revert-icon {
+ background-image: url(../images/arrow_undo.png);
+}

@@ -1,0 +1,11 @@
+{
+    success: true,
+    children: [{
+        text: "MVC Extjs 4",
+        children: [{
+            text: 'Task Outlook',
+            id: 'taskOutlook',
+            leaf: true
+        }]
+    }]
+}
