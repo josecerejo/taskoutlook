@@ -8,8 +8,7 @@ Ext.define('CVStuff.modules.taskoutlook.view.TaskOutlookTab', {
         align: 'stretch'
     },
     defaults : {
-    	flex : 1,
-    	autoScroll : true
+    	flex : 1
     },
 	initComponent : function() {
 		this.items = [
